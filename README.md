@@ -69,6 +69,10 @@ DB_PASSWORD=
   sail artisan migrate:fresh --seed
 ```
 
+```bash
+  sail artisan key:generate
+```
+
 
 ## Information
 
